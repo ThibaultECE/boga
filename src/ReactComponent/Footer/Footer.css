@@ -1,0 +1,15 @@
+.container {
+    position: absolute;
+    bottom: 0;
+    background-color: #03224c;
+    width: 100%;
+    max-height: 20%;
+}
+
+.image {
+    margin: 1rem;
+    width: 3rem;
+    height: auto;
+    object-fit: contain;
+    resize: vertical;
+}
